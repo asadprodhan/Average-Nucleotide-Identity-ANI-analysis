@@ -146,7 +146,7 @@ average_nucleotide_identity.py -i genomes -o output_ANI --labels genomes/labels.
 
 
 
-Command reference: https://github.com/widdowquinn/pyani/issues/56
+- Command reference: https://github.com/widdowquinn/pyani/issues/56
 
 <br />
 
