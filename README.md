@@ -76,23 +76,43 @@ conda install -c bioconda pyani
 ```
 
 
-- Make two metadata files and name them as ‘classes.txt’ and ‘labels.txt’
+- Make two metadata files and name them as ‘classes.txt’ (Fig. 1) and ‘labels.txt’ (Fig. 2)
+
+
+<br />
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/classes.PNG"
+  >
+</p>
+<p align = "center">
+Figure 1. Classes
+</p>
+
+
+<br />
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/labels.PNG"
+  >
+</p>
+<p align = "center">
+Figure 2. Labels
+</p>
 
 
 
-Metadata
+> Note, the first column is the nucleotide sequences names
 
-
-- First column is the nucleotide sequences names
-
-- Second column is the label of the nucleotide sequences
+> Second column is the label of the nucleotide sequences
  
+ <br />
  
 
-- Make a directory named as ‘ANI’
+- Make a directory and name it as ‘ANI’ for example
 
 
-- Within ‘ANI’ directory, make another directory named ‘genomes’
+- Within the ‘ANI’ directory, make another directory and name it as ‘genomes’ for example
 
 
 - Keep all the nucleotide sequences, ‘classes.txt’ and ‘labels.txt’ in the ‘genomes’ directory
@@ -109,12 +129,14 @@ file *.txt
 - If ‘classes.txt’ and ‘labels.txt’ have CRLF (Windows) format, then convert them into Unix format as follows:
 
 
+
 ```
 dos2linux *.txt
 ```
 
 
 - Run the following command from the ‘ANI’ directory
+
 
 
 ```
@@ -125,10 +147,27 @@ average_nucleotide_identity.py -i genomes -o output_ANI --labels genomes/labels.
 - Note that you do not make the output directory beforehand. Otherwise, the command will exit with an ‘overwriting’ error
 
 
+
 Command reference: https://github.com/widdowquinn/pyani/issues/56
 
 
+
 ## **Result**
+
+
+The final output of the ANI analysis looks like this (Fig. 3):
+
+
+<br />
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/ANIm_percentage_identity.png"
+  >
+</p>
+<p align = "center">
+Figure 3. Results
+</p>
+
 
 
 ## **References**
