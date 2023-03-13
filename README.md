@@ -1,6 +1,5 @@
 # Average Nucleotide Identity analysis
 
-
 <br />
 
 ### **Asad Prodhan PhD** 
@@ -43,6 +42,7 @@ There are several methods to calculate the ANI:
 
 - TETRA (based on tetranucleotide signature occurrences)
 
+<br />
 
 ## **ANI tools**
 
@@ -64,6 +64,7 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
 
 - Python3 package (pyani) (https://github.com/widdowquinn/pyani, https://pyani.readthedocs.io/en/latest/run_anim.html) based on (Richter and Rossello´-Mo´ra, 2009). Pyani uses MUMmer algorithm.
 
+<br />
 
 ## **How to run pyani**
 
@@ -150,7 +151,7 @@ average_nucleotide_identity.py -i genomes -o output_ANI --labels genomes/labels.
 
 Command reference: https://github.com/widdowquinn/pyani/issues/56
 
-
+<br />
 
 ## **Result**
 
@@ -169,6 +170,7 @@ Figure 3. Results
 </p>
 
 
+<br />
 
 ## **References**
 
