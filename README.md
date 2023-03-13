@@ -153,7 +153,7 @@ Command reference: https://github.com/widdowquinn/pyani/issues/56
 
 <br />
 
-## **Result**
+## **Results**
 
 
 The final output of the ANI analysis looks like this (Fig. 3):
