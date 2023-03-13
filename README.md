@@ -1,6 +1,5 @@
 # Average Nucleotide Identity analysis
 
-<br />
 
 ### **Asad Prodhan PhD** 
 
@@ -12,18 +11,16 @@ https://asadprodhan.github.io/
 
 Average Nucleotide Identity (ANI) analysis calculates the percentage of nucleotide identity among the supplied nucleotide sequences. It produces a square matrix of the calculated values. This matrix allows for pairwise comparisons among the nucleotide sequences and help determine their similarities. 
 
-<br />
 
+<br />
 
 ## Table of Contents  
 
-
-- [title](link)  
-- [title](link)  
-- [title](link)  
-- [title](link)  
-- [title](link)  
-- [title](link)  
+- [ANI methods](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#ani-methods)  
+- [ANI tools](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#ani-tools)  
+- [How to run pyani](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#how-to-run-pyani)  
+- [Results](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#results)  
+- [References](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#references)  
 
 <a name="headers"/>
 
