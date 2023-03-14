@@ -9,7 +9,7 @@ https://asadprodhan.github.io/
 <br />
 
 
-Average Nucleotide Identity (ANI) analysis calculates the percentage of nucleotide identity among the supplied nucleotide sequences. It produces a square matrix of the calculated values. This matrix allows for pairwise comparisons among the nucleotide sequences and help determine their similarities. 
+Average Nucleotide Identity (ANI) analysis calculates the percentage of nucleotide identity among the supplied nucleotide sequences. It produces a square matrix of the calculated values. This matrix allows for pairwise comparisons among the nucleotide sequences and helps determine their similarities. 
 
 
 <br />
