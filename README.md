@@ -14,7 +14,7 @@ Average Nucleotide Identity (ANI) analysis calculates the percentage of nucleoti
 
 <br />
 
-## Table of Contents  
+## Contents  
 
 - [ANI methods](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#ani-methods)  
 - [ANI tools](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/README.md#ani-tools)  
