@@ -65,12 +65,30 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
 
 ## **How to run pyani**
 
+- Create a conda environment
+
+  ```
+  conda create -n ani
+  ```
+
+  - Activate the ani environment
+ 
+  ```
+  conda activate ani
+  ```
+
 
 - Instal pyani as follows:
 
 
 ```
 conda install -c bioconda pyani
+```
+
+- Check it has been installed. Copy the following command and hit enter
+
+```
+average_nucleotide_identity.py
 ```
 
 
