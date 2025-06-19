@@ -80,28 +80,27 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
 
 - Instal pyani as follows:
 
-
-```
-conda install -c bioconda pyani
-```
+  ```
+  conda install -c bioconda pyani
+  ```
 
 - Check it has been installed. Copy the following command and hit enter
 
-```
-average_nucleotide_identity.py
-```
+  ```
+  average_nucleotide_identity.py
+  ```
 
 - Install dos2unix for changing file format
 
-```
-conda install conda-forge::dos2unix
-```
+  ```
+  conda install conda-forge::dos2unix
+  ```
 
 - Check it has been installed. Copy the following command and hit enter
 
-```
-dos2unix
-```
+  ```
+  dos2unix
+  ```
 
 - Make two metadata files and name them as ‘classes.txt’ (Fig. 1) and ‘labels.txt’ (Fig. 2)
 
