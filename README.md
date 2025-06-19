@@ -157,7 +157,7 @@ file *.txt
 
 
 ```
-dos2linux *.txt
+dos2unix *.txt
 ```
 
 
