@@ -71,7 +71,7 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
   conda create -n ani
   ```
 
-  - Activate the ani environment
+- Activate the ani environment
  
   ```
   conda activate ani
@@ -91,6 +91,17 @@ conda install -c bioconda pyani
 average_nucleotide_identity.py
 ```
 
+- Install dos2unix for changing file format
+
+```
+conda install conda-forge::dos2unix
+```
+
+- Check it has been installed. Copy the following command and hit enter
+
+```
+dos2unix
+```
 
 - Make two metadata files and name them as ‘classes.txt’ (Fig. 1) and ‘labels.txt’ (Fig. 2)
 
