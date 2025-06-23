@@ -1,9 +1,26 @@
-# Average Nucleotide Identity analysis
+
+<h1 align="center">Average Nucleotide Identity analysis</h1>
 
 
-### **Asad Prodhan PhD** 
+<h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
 
-https://asadprodhan.github.io/
+
+<div align="center"><b> DPIRD Diagnostics and Laboratory Services, Department of Primary Industries and Regional Development </b></div>
+
+
+<div align="center"><b> 3 Baron-Hay Court, South Perth, WA 6151, Australia </b></div>
+
+
+<div align="center"><b> <sup>*</sup>Correspondence: Asad.Prodhan@dpird.wa.gov.au </b></div>
+
+
+<br />
+
+
+<p align="center">
+  <a href="https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL%203.0-yellow.svg" alt="License GPL 3.0" style="display: inline-block;"></a>
+  <a href="https://orcid.org/0000-0002-1320-3486"><img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID" style="display: inline-block;"></a>
+</p>
 
 
 <br />
