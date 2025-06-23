@@ -84,13 +84,13 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
   conda activate pyani_env
   ```
 
-## Alternatively, you can use my conda environment for pyani
+- Alternatively, you can use my conda environment for pyani
 
 
-#### Download it [HERE](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/pyani_env.yml)
+- #### Download it [HERE](https://github.com/asadprodhan/Average-Nucleotide-Identity-ANI-analysis/blob/main/pyani_env.yml)
 
 
-#### Then activate it as follows
+- #### Then activate it as follows
 
 
   ```
