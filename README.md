@@ -65,30 +65,32 @@ There are several tools available for ANI analysis (Figueras et al., 2014). For 
 
 ## **How to run pyani**
 
-- Create a conda environment
+
+- If you are working on HPC Cluster, load the required version of python
 
   ```
-  conda create -n ani
+  module load cray-python/3.10.10
+  ```
+
+- Create a conda environment with the compatible version of python, matplotlib and pyani
+
+  ```
+  conda create -n pyani_env python=3.10 "matplotlib<=3.7" "pyani>=0.2.12" -c bioconda
   ```
 
 - Activate the ani environment
  
   ```
-  conda activate ani
-  ```
-
-
-- Instal pyani as follows:
-
-  ```
-  conda install -c bioconda pyani
+  conda activate pyani_env
   ```
 
 - Check it has been installed. Copy the following command and hit enter
 
   ```
-  average_nucleotide_identity.py
+  average_nucleotide_identity.py --help
   ```
+
+The above command will show the flags/options of the pyani program
 
 - Install dos2unix for changing file format
 
