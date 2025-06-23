@@ -1,5 +1,5 @@
 
-<h1 align="center">Average Nucleotide Identity analysis</h1>
+<h1 align="center">Average Nucleotide Identity Analysis for Diagnosis</h1>
 
 
 <h3 align="center">M. Asaduzzaman Prodhan<sup>*</sup></h3>
